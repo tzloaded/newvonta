@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+	@media (prefers-color-scheme: dark) {
+		.layout { fill: #373A36; }
+	}
+	</style>
+	<rect class="layout" x="320" y="320" width="128" height="128" fill="white"/>
+	<rect x="192" y="320" width="128" height="128" fill="#78D2E5"/>
+	<rect x="320" y="192" width="128" height="128" fill="#FB6F90"/>
+	<rect x="192" y="192" width="128" height="128" fill="#FB6F90"/>
+	<rect x="64" y="192" width="128" height="256" fill="#78D2E5"/>
+	<rect x="320" y="64" width="128" height="128" fill="#FB6F90"/>
+	<rect x="192" y="64" width="128" height="128" fill="#FB6F90"/>
+	<rect class="layout" x="64" y="64" width="128" height="128" fill="white"/>
+</svg>
